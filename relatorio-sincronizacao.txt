@@ -1,0 +1,167 @@
+========================================
+       RELATÓRIO DE SINCRONIZAÇÃO RH
+========================================
+Data: 09/04/2026, 23:48:33
+
+Resumo:
+---------------------------------------
+Total de registros recebidos: 150
+Usuários maiores de 18 anos:  150
+Registros adicionados:        149
+Registros atualizados:        1
+Registros ignorados:          0
+Erros:                        0
+
+Detalhes:
+Adicionado: Ömür Akal
+Adicionado: Rick Shelton
+Adicionado: Maëlle Gauthier
+Adicionado: Nastasija Bjelica
+Adicionado: Mago Monteiro
+Adicionado: سینا كامياران
+Adicionado: Eden Hughes
+Adicionado: Nanna Christiansen
+Adicionado: Jennie Wood
+Adicionado: مرسانا سهيلي راد
+Adicionado: Victoria Vidal
+Adicionado: Julie Garza
+Adicionado: Bradley Davis
+Adicionado: Perry Mitchell
+Adicionado: Heike Andre
+Adicionado: Charles Barnaby
+Adicionado: Yaela Venema
+Adicionado: Milo Novaes
+Adicionado: Julie Kristensen
+Adicionado: Lidia López
+Adicionado: Márcio Gomes
+Adicionado: Savannah Williams
+Adicionado: Daniel Morrison
+Adicionado: سارینا کامروا
+Adicionado: Shubhangi Dhamdhame
+Adicionado: Barbara Myers
+Adicionado: Josua Lunenborg
+Adicionado: Victoria Cruz
+Adicionado: Orimir Vovkodav
+Adicionado: Judith Gardner
+Adicionado: Jessie Holmes
+Adicionado: Slavoljub Simeonović
+Adicionado: Ananth Naik
+Adicionado: Bently Li
+Adicionado: Xavier Robinson
+Adicionado: Paulina Dumont
+Adicionado: Karla Christensen
+Adicionado: Dijana Grujić
+Adicionado: Samuel Skårdal
+Adicionado: Alex Williamson
+Adicionado: Armand Rolland
+Adicionado: Begüm Tokatlıoğlu
+Atualizado: Harrison Anderson
+Adicionado: Holly Alvarez
+Adicionado: Melissa Barnett
+Adicionado: Mestan Bakırcıoğlu
+Adicionado: Yann Robin
+Adicionado: Damien Dumas
+Adicionado: Eevi Pietila
+Adicionado: Anastasiya Kotovskiy
+Adicionado: Andre Nowak
+Adicionado: Maja Rasmussen
+Adicionado: تارا کوتی
+Adicionado: Paola Valverde
+Adicionado: Tyler Green
+Adicionado: Freja Sørensen
+Adicionado: Sara Haapala
+Adicionado: Sila Filenko
+Adicionado: Nadja Mančić
+Adicionado: Nina Picard
+Adicionado: Pauline Lefebvre
+Adicionado: Marcos Vela
+Adicionado: Martha Cole
+Adicionado: Sanjana Shayana
+Adicionado: Estéban Mercier
+Adicionado: Hilla Seppala
+Adicionado: هستی رضاییان
+Adicionado: Marino Jean
+Adicionado: Kuzman Rajković
+Adicionado: Héctor López
+Adicionado: Liam Hughes
+Adicionado: Tuna Ijpma
+Adicionado: احسان قاسمی
+Adicionado: Marion Henderson
+Adicionado: Allan Harper
+Adicionado: Felisberto da Costa
+Adicionado: Kristina Bade
+Adicionado: Alejandra Cortes
+Adicionado: Nooa Arola
+Adicionado: Ferdinand Gaillard
+Adicionado: Henri Thomas
+Adicionado: Henri Kemmer
+Adicionado: Julio Lambert
+Adicionado: Milan Bernard
+Adicionado: Adam Abraham
+Adicionado: Lily Bailey
+Adicionado: Ali Babacan
+Adicionado: Russell Kelly
+Adicionado: Arturo Benítez
+Adicionado: ثنا پارسا
+Adicionado: Trinidad Orosco
+Adicionado: Alex Brun
+Adicionado: Célia Carpentier
+Adicionado: Reina Cabán
+Adicionado: Salvador Márquez
+Adicionado: Mia Moreno
+Adicionado: Cinira da Conceição
+Adicionado: Ömür Koçoğlu
+Adicionado: Kelin Rodrigues
+Adicionado: Inés Soler
+Adicionado: Koray Aykaç
+Adicionado: Anel Gonzales
+Adicionado: Cesar Cortes
+Adicionado: Amanda Sakala
+Adicionado: Ege Egeli
+Adicionado: Patricia Sullivan
+Adicionado: Janniek De Geest
+Adicionado: Debbie Perez
+Adicionado: Rene Meyer
+Adicionado: Nelli Rinne
+Adicionado: Sergio Navarrete
+Adicionado: Barry Thompson
+Adicionado: Aidan Turner
+Adicionado: Evan Hordvik
+Adicionado: Elizabeth Côté
+Adicionado: Mia Mollan
+Adicionado: Mahika Pai
+Adicionado: Antonino Riviere
+Adicionado: Gertruda Gamchenko
+Adicionado: Célian Roussel
+Adicionado: Mikkel Poulsen
+Adicionado: Alberte Petersen
+Adicionado: Lucas Lozano
+Adicionado: Carol Miles
+Adicionado: Melissa Gardner
+Adicionado: Eva Chan
+Adicionado: Mallika Namnaik
+Adicionado: Miro Kivela
+Adicionado: Mijo Reinhard
+Adicionado: Heidi Harnisch
+Adicionado: Hans-H. Thamm
+Adicionado: Laura Santana
+Adicionado: Senol Lücke
+Adicionado: Vilhelm Dvergsdal
+Adicionado: Florencia Rodríguez
+Adicionado: Alberto Guerrero
+Adicionado: Charlotte Horton
+Adicionado: Trinidad Vargas
+Adicionado: Sylvester Rohrer
+Adicionado: Alicia Bertrand
+Adicionado: Rose Larson
+Adicionado: Atika Van Holten
+Adicionado: Shanaya Bal
+Adicionado: Allie Craig
+Adicionado: Laura Ramos
+Adicionado: Ken Harrison
+Adicionado: Simon Rasmussen
+Adicionado: Nihal Adal
+Adicionado: Paige Green
+Adicionado: Joshua Martin
+
+========================================
