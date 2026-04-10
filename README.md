@@ -1,4 +1,4 @@
-edw# RH Sync
+# RH Sync
 
 ## Como rodar
 
