@@ -2,8 +2,15 @@
 
 ## Como rodar
 
+### 1. Instalar dependências
+```bash
 npm install
+```
+
+### 2. Para executar
+```bash
 npm run start
+```
 
 ## O que faz
 
